@@ -7,7 +7,7 @@
 <a href="https://play.google.com/store/apps/details?id=net.programmierecke.radiodroid2" target="_blank">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80"/></a></div>
 
-Test
+
 
 ### <div align=center>Please add issues or feature requests on github under issues.</div>
 ### <div align=center>Download releases here https://github.com/segler-alex/RadioDroid/releases</div>
